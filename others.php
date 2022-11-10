@@ -2,14 +2,14 @@
 <html lang="en">
     <head>
 	    <meta charset="utf-8">
-        <meta name="Mario And Asia Italian Restaurant" viewport="Mario And Asia Food Menu">
+        <meta name="Mario And Asia Italian Restaurant" viewport="Mario And Asia Drinks Menu">
         <meta name="viewport" content="width=device-width initial-scale=1.0">
 	    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Work Sans">
 	    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
         <script src="https://kit.fontawesome.com/64d58efce2.js" crossorigin="anomymous"></script>
 	    <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
-	    <title>Mario & Asia Italian Restaurant | Menu</title>
+	    <title>Mario & Asia Italian Restaurant | Menu - Drinks and Others</title>
     </head>
     <body style="background-color: #e0e0e0; background-image: url('assets/img/woodwall.webp');background-size: contain;
     background-repeat: repeat">
@@ -32,49 +32,9 @@
         <center>
         <div class="content">
             <div class="textmenu">
-                <p id="pmenu">Look!!! We have a menu list.</p>
+                <p id="pmenu">Here's our Drinks and Others</p>
+                <br><br>
             </div>
-            <div class="contain" data-tilt data-tilt-scale="1.1" data-tilt data-tilt-axis="x" transform-style: preserve-3d transform: perspective(100px);>
-                <a class="txt" href="pizza.php">
-                    <img src="assets/img/pizzas.webp" alt="Pizzas" class="image" style="width: 100%;">
-                        <div class="middle">
-                            <div class="text">
-                                Pizzas
-                            </div>
-                </a>
-                        </div>
-            </div>
-            <div class="contain" data-tilt data-tilt-scale="1.1" data-tilt data-tilt-axis="x" transform-style: preserve-3d transform: perspective(100px);>
-                <a class="txt" href="pasta.php">
-                    <img src="assets/img/pastas.webp" alt="Pastas" class="image" style="width: 100%;">
-                        <div class="middle">
-                            <div class="text">
-                                Pastas
-                            </div>
-                </a>
-                        </div>
-            </div>
-            <div class="contain" data-tilt data-tilt-scale="1.1" data-tilt data-tilt-axis="x" transform-style: preserve-3d transform: perspective(100px);>
-                <a class="txt" href="snacks.php">
-                    <img src="assets/img/snacks.webp" alt="Snacks" class="image" style="width: 100%;">
-                        <div class="middle">
-                            <div class="text">
-                                Snacks
-                            </div>
-                </a>
-                        </div>
-            </div>
-            <div class="contain" data-tilt data-tilt-scale="1.1" data-tilt data-tilt-axis="x" transform-style: preserve-3d transform: perspective(100px);>
-                <a class="txt" href="others.php">
-                    <img src="assets/img/drinks.webp" alt="Drink" class="image" style="width: 100%;">
-                        <div class="middle">
-                            <div class="text">
-                                Drinks
-                            </div>
-                </a>
-                        </div>
-            </div>
-              <br><br>
         </div>
         </center>
         <center>
