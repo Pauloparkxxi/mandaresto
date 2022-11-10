@@ -83,7 +83,7 @@
             <p class="pfooter">Italian Restaurant · Pizza Place</p>
         </footer>
         <footer class=foot>
-        <p class="pfooter2">Mario & Asia Italian Restaurant | © 2021</p>
+        <p class="pfooter2">Mario & Asia Italian Restaurant | © 2022</p>
         </footer>
    </body>
    <script type="text/javascript" src="assets/js/vanilla-tilt.js">
