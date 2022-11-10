@@ -25,7 +25,6 @@
                     <li><a class="hover" href="about-us.php">About Us</a></li>
                     <li><a class="hover" href="faq.php">FAQ</a></li>
                     <li><a class="active hover" href="contact-us.php">Contact Us</a></li>
-                    <li><a class="active1 hover1" href="sign-in.php">Sign In</a></li>
                 </ul>
         </nav>
         <br><br><br><br>
